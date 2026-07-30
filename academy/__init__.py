@@ -1,0 +1,1 @@
+"""Quantoryx — academy module."""

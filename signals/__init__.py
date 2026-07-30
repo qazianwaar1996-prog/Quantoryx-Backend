@@ -1,0 +1,1 @@
+"""Quantoryx — signals module."""
